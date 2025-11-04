@@ -1,0 +1,17 @@
+Data License Agreement – Research Use Only
+
+This repository (including all code, metadata, and related materials)
+is governed by the "Data License Agreement – Research Use Only"
+published by Qualcomm Technologies, Inc.
+
+By using this repository, you agree to the terms described in that license.
+
+You can view the current version of the license here:
+https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/jester_something_something_exercise_research_license_final_qti_28jul2022.pdf
+
+This repository does not include the Something-Something V2 dataset itself.
+Use of the dataset or any derivative metadata is restricted to
+non-commercial research and educational purposes as defined in the license.
+
+If the link above becomes unavailable,
+a copy of the license valid as of July 28 2022 is provided in /licenses/qti_research_license_2022.pdf.
