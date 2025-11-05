@@ -1,4 +1,4 @@
-# video-interaction-recognition
+# ssv2-contact-release-interaction-dataset
 
 A **metadata and annotation repository** for video interaction recognition,  
 structured according to the **Something-Something V2** dataset format.
@@ -96,6 +96,7 @@ the default channel order used internally by OpenCV.
 import os
 import cv2
 
+
 def video_to_frames(video_path, output_dir):
     os.makedirs(output_dir, exist_ok=True)  # ensure output folder exists
 
@@ -121,9 +122,9 @@ using individual jobs per video.
 
 ---
 
-### Annotating Frames
+## Annotating Frames
 
-![Annotated Frame Example](assets/annotated_frame.png)
+![Annotated Frame Example](images/annotated_frame.png)
 
 Collecting human annotations for interactions using the Amazon Mechanical Turk platform.  
 Human subjects were asked to annotate **core interaction events** in videos from the SSv2 dataset [2].  
