@@ -1,7 +1,7 @@
 # ssv2-contact-release-interaction-dataset
 
-A **metadata and annotation repository** for video interaction recognition,  
-structured according to the **Something-Something V2** dataset format.
+A **metadata and annotation repository** for **contact and release interaction events**  
+in videos from the **Something-Something V2 (SSv2)** dataset. Includes human-annotated spatiotemporal labels for object–agent interactions.
 
 ---
 
@@ -127,7 +127,7 @@ using individual jobs per video.
 ![Annotated Frame Example](images/annotated_frame.png)
 
 Collecting human annotations for interactions using the Amazon Mechanical Turk platform.  
-Human subjects were asked to annotate **core interaction events** in videos from the SSv2 dataset [2].  
+Human subjects were asked to annotate **core interaction events** in videos from the SSv2 dataset.  
 
 Shown here are example annotations for **“contact”** and **“release”** events, where the target object (white candle)  
 becomes attached to a hand (left) and a surface (middle), or detached from the hand (right).  
